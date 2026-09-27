@@ -1,0 +1,5 @@
+{
+  "threshold": 0.05,
+  "top_k": null,
+  "val_macro_f05": 0.07079383116883116
+}

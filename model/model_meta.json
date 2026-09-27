@@ -1,0 +1,28 @@
+{
+  "feature_cols": [
+    "name_ratio",
+    "name_token_sort_ratio",
+    "name_token_set_ratio",
+    "addr_ratio",
+    "addr_token_sort_ratio",
+    "addr_token_set_ratio",
+    "name_jaccard",
+    "addr_jaccard",
+    "name_tfidf_cos",
+    "addr_tfidf_cos",
+    "name_exact_match",
+    "addr_exact_match",
+    "country_match",
+    "name_len_diff",
+    "addr_len_diff",
+    "name_token_count_diff",
+    "addr_token_count_diff",
+    "source_num"
+  ],
+  "val_auc": 1.0,
+  "val_ap": 1.0,
+  "best_iteration": 493,
+  "scale_pos_weight": 20.0,
+  "n_train": 1008,
+  "n_val": 63
+}
